@@ -1,0 +1,6 @@
+@StartupFailureAspNetCore_HostAddress = http://localhost:5134
+
+GET {{StartupFailureAspNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
